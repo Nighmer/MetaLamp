@@ -1,0 +1,41 @@
+.FooterBar {
+  background: white;
+}
+.FooterBar__body {
+  left: 140px;
+}
+.FooterBar__row {
+  display: flex;
+}
+.FooterBar__column {
+  flex: 0 0 10%;
+}
+.FooterBar__title {
+  margin: 0px 0px 30px 0px;
+}
+.FooterBar__text {
+  margin-bottom: 140px;
+}
+.logo {
+  /* background: #1f2041; */
+}
+.text {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  /* Dark 50% */
+  color: rgba(31, 32, 65, 0.5);
+}
+.title {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+  text-transform: uppercase;
+  /* Dark 100% */
+  color: #1f2041;
+}
